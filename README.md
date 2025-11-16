@@ -2,7 +2,7 @@
 
 The mini game in Castle Crashers caused me pain. I created this script out of spite.
 
-Aftering selecting the games current layout, orientation and your starting position, this script will remap the arrow keys on your keyboard to whatever input  is need in order to go in the direction that you want to go in.
+After selecting the games current layout, orientation and your starting position, this script will remap the arrow keys on your keyboard to whatever input  is need in order to go in the direction that you want to go in.
 
 <br/>
 
